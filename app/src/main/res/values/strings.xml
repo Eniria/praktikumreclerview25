@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">praktikumreclerview25</string>
+    <string-array name="data_nama_aktor">
+        <item>Eniria Gulo</item>
+        <item>Lee Min Hoo</item>
+        <item>Kim Namjoon</item>
+        <item>Kim Seok Jin</item>
+        <item>Min Yoon Gi</item>
+        <item>Jung Ho-Seok</item>
+        <item>Park Ji Min</item>
+        <item>Kim Tae Hyung</item>
+        <item>Jeon Jeong-guk</item>
+        <item>Kim Jisoo</item>
+        <item>Jennie Kim</item>
+        <item>Park Chaeyoung</item>
+        <item>Panpriya Manabon/Lisa</item>
+        <item>Soobin</item>
+        <item>Yeonjun</item>
+        <item>Beomgyu</item>
+        <item>Taehyun</item>
+        <item>Hueningkai</item>
+        <item>Heesung</item>
+        <item>Jay</item>
+        <item>Jake</item>
+        <item>Sunghoon</item>
+        <item>Sunno</item>
+        <item>Jungwon</item>
+        <item>Niki</item>
+    </string-array>
+    <string-array name="data_deskripsi_aktor">
+        <item>Saya lahir pada tanggal 20 mei 2002, saya adalah seorang penggemar k-pop dan saya juga sangat suka drakor yang di perankan oleh seorang aktor lee-min-hoo, saya menyukai k-pop di umur saya yang ke 17 tahun, saya sangat suka mendengarkan lagu-lagu mereka yang penuh dengan semangat dan bagaimana perjalanan mereka hingga sampai pada titik kesuksesan, dimana umur mereka yang masih muda sudah bisa mendapatkan uang yang banyak. saya sangat kagum dengan bakat menyanyi mereka.</item>
+        <item>Lee Min Ho adalah seorang aktor dan penyanyi yang berasal dari Korea Selatan, pria tampan ini lahir pada 22 Juni 1987. Lee Min Ho mulai dikenal luas di Korea maupun di Asia berkat perannya sebagai Gu Jun- Pyo dalam drama Boys Over Flowers yang di bintanginya pada tahun 2009. Peran tersebut membawanya memenangkan beberapa penghargaan seperti Aktor Pendatang Terbaik di Baeksang Arts Awards ke – 45 . Lee Min Ho juga dikenal karena peran utamanya dalam City Hunter ( 2011 ), The Heirs ( 2013 ) , dan The Legend of the Blue Sea ( 2016 ).</item>
+        <item>profil member pertama yang akan dibahas adalah Kim Nam Joon atau akrab disapa dengan nama panggung Rap Monster. dia adalah leader sekaligus main rapper dari bangtan boys. ia lahir di IIsan pada 12 september 1994. sebelum debut, ia dikenal sebagai rapper underground yan memiliki nama panggung runch randa. </item>
+        <item>Ia lahir di Gwacheaon pada 4 desember  1992. member yang memiliki hobi memasak ini adalah member tertua digrup. sebelum debut jin menjalani training  selama tiga tahun. saat menjadi trainee, member yang menjadi teman pertamanya adalah V. mereka berdu memiliki kebiasaan dan hobi yang sama.</item>
+        <item>Min Yoon Gi atau yang lebih kita kenal dengan suga adalah lead rapper dari BTS. ia lahir di Bukgu, daegu, pada 9 maret 1993, ia memiliki satu kakak laki-laki. sebelum debut dengan grupnya sekarang, lulusan apujeong high school ini merupakan seorang rapper underground yang cukup terkenal didaerah deagu dengan nama GLoos.</item>
+        <item>pria kelahiran gwangju 18 1994 ini menempati posisi lead rapper dan main dancer dalam group. sebelum bergabung bersama BTS, ia tergabung dalam group street dance yang bernama NEURON.</item>
+        <item>setelah J_Hope, profil member BTS berikutnya yang akan kami perkenalkan  adalah Jimin. member kelahiran  Busan, 13 Oktober  1995 ini merupakan lead vocalist dann main dancer dalam grup. terlahir dengan nama asli Park Ji Min, ia memiliki beberapa nama panggilan. ia sering di panggil Chim, Chim, Dolly, atau Park jimine namun ia lebih diakrab disapa dengan nama panggung jimin.</item>
+        <item>Kim Tae Hyung atau yang lebih dikenal dengan nama panggung V. ia merupakan vocalist dalam grup  Bangtan Boys. Ia lahir di Daegu pada tanggal 30 Desember  1995. kemudian ia  pindah ke Geochang dan besar disana disana sebelum akhirnya pindah ke Seoul. V memiliki satu adik perempuan dan  dan satu adik laki-laki.</item>
+        <item>profil member BTS yang selanjutnya akan  dibahas adalah Jeon Jung Kook atau yang biasa disapa dengan Jungkook. ia merupakan main Vocalist, lead dancer, sub rapper, center, dan maknae dari bangtan Boys. ia lahir di Busan pada 1 september 1997. Jungkook  memiliki satu kakak laki-laki. ia bersekolah di Seoul School Performing  Arts.</item>
+        <item>Jisoo lahir di Seoul, Korea Selatan. Dia memiliki kakak laki-laki (bernama Kim Junghoon) dan perempuan, dia yang termuda. Dia dilatih selama 5 tahun (sejak Juli 2011). Jisoo adalah anggota ketiga yang terungkap. Dia dapat berbicara bahasa Korea, Jepang, dan Cina dasar. Menurut Jennie (V Live App), Jisoo tidak berbicara bahasa Inggris (karena dia malu melakukannya) tetapi dia bisa memahaminya dengan sangat baik.</item>
+        <item>Jennie lahir di Anyang, sebuah kota di provinsi Gyeonggi, Korea Selatan. Jennie hidup di Auckland, New Zealand sekitar 5 tahun. (“Knowing Brother”) Dia belajar di New Zealand di ACG Parnell College. Dia tidak punya saudara. Dia dilatih selama 5 tahun 11 bulan (Agustus 2010). Jennie adalah anggota pertama yang diungkapkan (secara publik). Jennie terkenal sebagai ‘the YG princess’ di grup.</item>
+        <item>Dia orang Korea, tapi dia lahir di Auckland, New Zealand, dan dibesarkan di Melbourne, Box Hill (Australia), di mana ia bersekolah di Canterbury Girls Secondary College. Dia memiliki kakak perempuan, bernama Alice. Dia pindah ke Korea kembali pada tahun 2012. (menurut Rose dalam Weekly Idol) Rosé adalah anggota terakhir yang diungkapkan. Rosé ditempatkan pertama dalam audisi YG di Australia. Dia dapat berbicara bahasa Korea, Inggris, Jepang.</item>
+        <item>Lisa adalah anak tunggal, menurut SBS Cultwo Show (6 Juli 2017). Lisa memiliki ayah tiri seorang koki yang tersertifikasi dari Swiss di Thailand. Nama ayah tirinya adalah Marco Brueschweiler. Sebelumnya, namanya adalah Pranpriya dan teman-temannya memanggilnya dengan nama panggilan Pockpack. Itu diubah menjadi Lalisa setelah banyak ramalan. (Lalisa berarti orang yang dipuji.) Dia adalah satu-satunya orang yang diterima di YG dalam YG Audition di Thailand 2010. Dia berteman sejak kecil dengan BamBam GOT7 karena mereka berdua adalah bagian dari kru tari We Zaa Cool</item>
+        <item>Choi Soobin adalah leader TXT yang berusia 18 tahun, ia lahir pada 5 Desember 2000. Soobin memiliki tinggi badan adalah 185 cm, dan berat 69 kg. Sebagai leader, Soobin bertanggung jawab untuk menjadi seorang pemimpin yang membimbing grupnya. Ia juga menerima banyak perhatian penggemar ketika menampilkankesan pemuda remaja yang sesuai dengan konsep TXT.</item>
+        <item>Choi Yeonjun diperkenalkan sebagai anggota pertama TXT oleh Big Hit Entertainment. Ia berusia 19 tahun dan lahir pada 13 September 1999. Yeonjun menjadi anggota tertua di dalam grup. Ia memiliki tinggi badan 181,5 cm dan berat 65 kg. BigHit Entertainment juga memberikan penggambaran tentang Yeonjun sebagai "member berusia 19 tahun dengan keterampilan menari yang luar biasa”. Jika dilihat dari video musik “Crown”, Yeonjun juga memiliki posisi sebagai rapper di dalam grup.</item>
+        <item>Choi Beomgyu adalah anggota kelima yang diperkenalkan sebagai anggota TXT oleh Big Hit Entertainment. Ia berusia 18 tahun dan lahir pada 13 Maret 2001, dengan tinggi badan 179 cm dan berat badan 55 kg. Tidak banyak informasi yang didapatkan mengenai Beomgyu saat ini. Banyak penggemar yang beranggapan Beomgyu merupakan visual dalam grup.</item>
+        <item>Kang Taehyun adalah anggota ke-empat yang diperkenalkan sebagai anggota TXT setelah Hueningkai. Taehyun berusia 16 tahun, di mana ia lahir pada 5 Februari 2002 dengan tinggi badan 177 cm dan berat 53 kg. Taehyun menjadi anggota termuda dalam grup, tidak banyak informasi yang didapatkan dari Taehyun untuk saat ini. Ia dinilai sangat cocok dengan tampilan muda dan tampan yang melambangkan konsep TXT, di mana grup ini memiliki image yang ceria.</item>
+        <item>Huening Kai (Kai Kamal Huening) adalah anggota ketiga yang diperkenalkan sebagai anggota TXT oleh Big Hit Entertainment. Hueningkai merupakan member pertama yang berasal dari luar Korea yang debut di bawah naungan Big Hit Entertainment. Ia lahir pada 14 Agustus 2002 dengan tinggi badan 181,5 cm dan berat badan 61 kg, di mana ia merupakan anggota termuda dalam grup sama seperti Taehyun, yakni berusia 16 tahun serta memiliki kewarganegaraan Amerika Serikat.</item>
+        <item>Heesung berasal dari Namyangju, Gyeonggi, Korea Selatan Heesung memiliki seorang kakak laki-laki Role modelnya adalah sang Ayah Heesung menjalani masa trainee selama 3 tahun 1 bulan Shio : Ular Pada episode pertama di I-LAND dia menampilkan lagu NCT U – BOSS.</item>
+        <item>Jay lahir di Seattle, Washington, U.S dan pindah ke Korea ketika dia berumur 9 tahun Jay merupakan anak dari CEO Sinar Tours Jay merupakan murid tingkat pertama di Sekolah Tinggi Seni Hanlim dan mengambil jurusan Menari Shio : Kuda Jay menjalani trainee selama 2 tahun 11 bulan Dia merupakan trainee di Big Hit Entertainment dan sekarang sedang dibawah naungan agensi BE:LIFT.</item>
+        <item>Jake lahir di Brisbane, Australia Dia memilki kakak laki-laki Jake merupakan siswa di Dwight School Seoul Jake telah menjadi trainee selama 9 bulan Shio : Kuda Dia ingin berkolaborasi dengan Drake.</item>
+        <item>Sunghoon berasal dari Namyangju , Gyeonggi, Korea Selatan Dia memiliki adik perempuan yang bernama Park Yeji dan berusia 5 tahun lebih muda darinya Sunghoon menjalani trainee selama 2 tahun, 1 bulan Sunghoon pernah 2 kali mendapatkan medali perak dalam kejuaraan nasional untuk berbagai kompetisi Internasional Dia memenangkan Asian Open 2015 dan Lombardia 2015 sebagai skater pemula Sunghoon debut sebagai skater pada 2016 dan memulai musim dengan membawa pulang medali perak untuk kategori Men’s Junior Division pada Asian Open Figure Skating Trophy 2016.</item>
+        <item>Sunoo berasal dari Suwon, Gyeonggi, Korea Selatan Dia memiliki kakak perempuan Jika membandingkan dirinya dengan binatang, maka dia memilih rubah gurun untuk merepresentasikan dirinya Sunoo menjalani trainee selama 10 bulan Sunoo bersekolah di SMP Chilbo Dia merupakan ketua OSIS di sekolahnya.</item>
+        <item>Jungwon memiliki kakak perempuan Dia menjalani trainee selama 1 tahun, 4 bulan Dia merupakan trainee di Big Hit Entertainment dan sekarang sedang dibawah naungan agensi BE:LIFT Pada episode pertama di I LAND dia menampilkan lagu Jay Park “All I Wanna do” bersama kontestan lainnya yaitu Yoonwon dan Taeyong Panutannya adalah Jungkook BTS Pengalaman yang tak terlupakan ketika di I-LAND adalah ketika ia melihat Jay tidur dengan mata terbuka saat malam hari.</item>
+        <item>Ni-Ki berasal dari Okayama, Jepang Dia memiliki kakak perempuan yang setahun lebih tua darinya Dia menjalani trainee selama 8 bulan NIKI pernah menjadi back dancer Shinee pada tahun 2016-2017 ketika ia berumur 11 tahun Ni-Ki bertangan kidal Dia dapat memainkan piano.</item>
+    </string-array>
+    <string-array name="data_gambar_aktor">
+        <item>@drawable/eniria</item>
+        <item>@drawable/leeminhoo</item>
+        <item>@drawable/rm</item>
+        <item>@drawable/jin</item>
+        <item>@drawable/suga</item>
+        <item>@drawable/jhope</item>
+        <item>@drawable/jimin</item>
+        <item>@drawable/v</item>
+        <item>@drawable/jongkook</item>
+        <item>@drawable/jisoo</item>
+        <item>@drawable/jennie</item>
+        <item>@drawable/rose</item>
+        <item>@drawable/lisa</item>
+        <item>@drawable/soobin</item>
+        <item>@drawable/yeonjun</item>
+        <item>@drawable/beomgyu</item>
+        <item>@drawable/taehyun</item>
+        <item>@drawable/hueningkai</item>
+        <item>@drawable/heesung</item>
+        <item>@drawable/jay</item>
+        <item>@drawable/jake</item>
+        <item>@drawable/sunghoon</item>
+        <item>@drawable/sunno</item>
+        <item>@drawable/jungwon</item>
+        <item>@drawable/niki</item>
+
+    </string-array>
+</resources>
